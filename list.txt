@@ -1,4 +1,4 @@
-Grocery List
-bread
-butter
-jam
+Supplies
+pencils
+tape
+glue
