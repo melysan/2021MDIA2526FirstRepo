@@ -1,4 +1,16 @@
+
+Grocery List
+bread
+butter
+jam
+
+
+Shoes
+runners 
+sneakers
+
 Supplies
 pencils
 tape
 glue
+
